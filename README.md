@@ -1,3 +1,5 @@
+<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTY5MXowcjMzN3c2eHN1cm1idTUxenk5Mjg0NWI0eGt1cnVsbzhudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" height="350"/></div>
+
 <h1 align="center">Hi 👋, I'm Suman Patra</h1>
 <h3 align="center">I LIKE TO FIGHT FOR MYSELF</h3>
 
